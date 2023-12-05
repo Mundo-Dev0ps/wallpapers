@@ -24,7 +24,7 @@ Dentro del directorio **tux-ai** están los directorios
 ![8.jpg](./tux-ai/large/9.jpg)
 
 ## Redes:
-*Youtube:* https://www.youtube.com/c/MundoDevOps
-*Tiktok:* https://www.tiktok.com/@mundo.devops
-*Instagram:* https://www.instagram.com/mundo.devops/​
-*Kick:* https://kick.com/mundodevops
+- *Youtube:* https://www.youtube.com/c/MundoDevOps
+- *Tiktok:* https://www.tiktok.com/@mundo.devops
+- *Instagram:* https://www.instagram.com/mundo.devops/​
+- *Kick:* https://kick.com/mundodevops
