@@ -1,6 +1,6 @@
 # Repo de Wallpapers
-Tal como me lo pidieron, dejo aquí este repo con los wallpapers que uso para los videos y fotos que comparto 
-Posiblem
+Tal como me lo pidieron, dejo aquí este repo con los wallpapers que uso para los videos y fotos que comparto en mis redes
+*De igual manera me comentan cualquier cosa 👨‍💻*
 
 **El que uso actualmente:**
 ![wallpaper.png](./tux-ai/large/2.jpg)
@@ -9,9 +9,9 @@ Posiblem
 - [Gitlab](https://gitlab.com/mundo-devops-repos/miscellaneous/wallpapers)
 - [GitHub](https://github.com/Mundo-Dev0ps/wallpapers)
 
-Dentro del directorio tux-ai están los directorios
-- large: formato horizontal
-- short: formato vertical
+Dentro del directorio **tux-ai** están los directorios
+- *large:* formato horizontal
+- *short:* formato vertical
 
 ### Ejemplos
 ![1.jpg](./tux-ai/large/1.jpg)
@@ -24,7 +24,7 @@ Dentro del directorio tux-ai están los directorios
 ![8.jpg](./tux-ai/large/9.jpg)
 
 ## Redes:
-Youtube: https://www.youtube.com/c/MundoDevOps
-Tiktok: https://www.tiktok.com/@mundo.devops
-Instagram: https://www.instagram.com/mundo.devops/​
-Kick: https://kick.com/mundodevops
+*Youtube:* https://www.youtube.com/c/MundoDevOps
+*Tiktok:* https://www.tiktok.com/@mundo.devops
+*Instagram:* https://www.instagram.com/mundo.devops/​
+*Kick:* https://kick.com/mundodevops
